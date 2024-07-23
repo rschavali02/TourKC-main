@@ -1,4 +1,5 @@
 # TourKC
+## Look at the TourKC pdf to the the full presentation and the views of the app!
  
 FBLA Coding and Programming App
 
