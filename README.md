@@ -25,32 +25,3 @@ The application was built, using a tutorial from Apple as a starting point. Sign
 System symbols are licensed for free developer use by Apple.
 
 TourKC stores information from the app on-device.
-
-En Español
-TourKC
-
-Aplicación de codificación y programación FBLA
-
-Objetivo
-Construimos TourKC para promover el turismo en el área de Kansas City. TourKC hace esto al presentar 50 grandes atracciones de una manera simple, accesible y dinámica.
-
-Instalación con Xcode
-La aplicación TourKC se puede instalar en cualquier dispositivo iOS conectando el dispositivo a una Mac con Xcode. Clone este repositorio y ábralo en Xcode. Seleccione el dispositivo de destino en el menú de ejecución (en la parte superior de la ventana al lado del botón de ejecución, leyendo iPhone X de forma predeterminada), luego haga clic en ejecutar. Esto hará una instalación temporal de la aplicación en el dispositivo. Ocasionalmente, solicitará un "Equipo de desarrolladores". Esto requerirá que el instalador inicie sesión con su ID de Apple.
-
-Uso
-Al iniciar TourKC, el usuario verá la pantalla de inicio de TourKC, que consta de atracciones destacadas y las 50 atracciones divididas en categorías. Al hacer clic en el botón de búsqueda en la esquina superior izquierda de la pantalla, el usuario abre una barra lateral donde puede filtrar las atracciones por nombre, categoría u otras características.
-
-Al seleccionar una atracción, se lleva al usuario a una pantalla de detalles con información específica sobre la atracción. En esta vista, la atracción se coloca en un mapa y el usuario puede leer una breve descripción de la ubicación, seguir un enlace al sitio web de la ubicación o explorar recomendaciones de atracciones similares. El usuario también puede usar el botón de favoritos para guardar ciertas atracciones para más adelante.
-
-Licencias y Plantillas
-Todos los recursos de terceros se utilizan bajo licencias perpetuas o circunstanciales, y se cumplen todas sus condiciones.
-
-Las imágenes que aparecen en la aplicación se utilizan bajo la licencia Creative Commons.
-
-La API de OpenWeatherMap se usa en TourKC de manera consistente con todos los acuerdos y licencias.
-
-La aplicación se creó utilizando un tutorial de Apple como punto de partida. Se realizaron modificaciones significativas al código y a los datos que lo acompañan.
-
-Los símbolos del sistema tienen licencia para uso gratuito de desarrolladores de Apple.
-
-TourKC almacena información de la aplicación en el dispositivo.
